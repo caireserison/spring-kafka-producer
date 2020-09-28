@@ -11,3 +11,8 @@ https://docs.confluent.io/current/quickstart/ce-docker-quickstart.html
 
 * O tópico é criado automaticamente pela aplicação
 
+
+OU
+
+Instalação direta no Windows: <br />
+https://kafka.apache.org/quickstart
